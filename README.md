@@ -1,16 +1,15 @@
 # -=[ Sab0x1D ]=-
 > Digital Forensic Nomad → Hex-bound (0x1D) | Ghost-backed  
+> _Threat Analyst IRL. Payload Ghost online._
 
- ```txt
+ `
 Track • Profile • Burn:
 {
   Silent ops;
   Malware trace;
   Infra teardown;
 }
-```
-
-> _Threat Analyst IRL. Payload Ghost online._
+`
 
 ---
 
