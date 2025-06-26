@@ -6,7 +6,7 @@
 
 ---
 
-## 👣 Whoami
+## Whoami
 
 I'm a cyber threat analyst by day, malware researcher by design.  
 I track actors, tear down infrastructure, and quietly profile the tools they leave behind.  
@@ -20,7 +20,7 @@ Certified Malware Researcher, building out tools to support open CTI efforts.
 
 ---
 
-## 🧠 Current Focus
+## Current Focus
 
 - ☠️ Payload analysis & memory inspection  
 - 🕵️ Threat actor TTP mapping (MITRE ATT&CK driven)  
@@ -41,20 +41,10 @@ Certified Malware Researcher, building out tools to support open CTI efforts.
 
 ---
 
-## 📜 Signature Block
-
--=[ Sab0x1D ]=-
-Digital Forensic Nomad → Hex-bound | Ghost-backed
-Track • Profile • Burn:
-{
-  Silent ops;
-  Malware trace;
-  Infra teardown;
-}
-
 ## 🔐 PGP
 
-📎 [Download Public Key via Keyserver](https://keys.openpgp.org/search?q=sab0x1d@disroot.org)
+[Download Public Key via Keyserver](https://keys.openpgp.org/search?q=sab0x1d@disroot.org)
+
 🔑 Fingerprint:`3D9F B4C2 9DB7 4E24 5F7F FED1 CDEE DE36 7F7D FCE`
 
 📧 UID: `Sab0x1D (Threat Analyst | Ghost-backed) <sab0x1d@disroot.org>`
