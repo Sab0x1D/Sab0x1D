@@ -1,0 +1,34 @@
+# 📄 License & Usage — Sab0x1D
+
+This repository and its contents are provided for **educational**, **defensive**, and **research** purposes only.
+
+---
+
+## ✅ You May:
+- Fork, clone, or reuse this material for **learning, research, or internal security tooling**
+- Reference the material in **writeups, blog posts, academic work**, or CTI reports — with credit
+- Build upon it for **non-commercial, ethical red/blue/purple team** use
+
+---
+
+## ❌ You May Not:
+- Sell, resell, or redistribute this content as part of a **commercial product** without explicit permission
+- Use it to **target, exploit, or compromise** live infrastructure without prior authorization
+- Repackage the material as your own without attribution
+
+---
+
+## 🤝 Attribution
+If you use or adapt this work:
+- Cite **Sab0x1D** or the relevant GitHub repo
+- Link back to: [https://github.com/sab0x1d](https://github.com/sab0x1d)
+
+---
+
+## 📬 Contact
+🔑 PGP: [`sab0x1d@disroot.org`](https://keys.openpgp.org/search?q=sab0x1d@disroot.org)  
+Fingerprint: `3D9F B4C2 9DB7 4E24 5F7F  FED1 CDEE DE36 7F7D FCE`
+
+---
+
+_You don't need to see the ghost to know it's there._
