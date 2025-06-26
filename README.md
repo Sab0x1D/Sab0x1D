@@ -55,9 +55,7 @@ Track • Profile • Burn:
 ## 🔐 PGP
 
 📎 [Download Public Key via Keyserver](https://keys.openpgp.org/search?q=sab0x1d@disroot.org)
-🔑 Fingerprint:
-`3D9F B4C2 9DB7 4E24 5F7F`  
-`FED1 CDEE DE36 7F7D FCE`
+🔑 Fingerprint:`3D9F B4C2 9DB7 4E24 5F7F FED1 CDEE DE36 7F7D FCE`
 
 📧 UID: `Sab0x1D (Threat Analyst | Ghost-backed) <sab0x1d@disroot.org>`
 
