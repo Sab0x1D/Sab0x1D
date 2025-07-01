@@ -39,12 +39,13 @@ Certified Malware Researcher, building out tools to support open CTI efforts.
 
 ## 🔧 Featured Repos
 
-| Project                                                         | Description                                                             |
-|-----------------------------------------------------------------|-------------------------------------------------------------------------|
-| [`sigtrack`](https://github.com/sab0x1d/sigtrack)               | IOC & signature tracker — Sigma, YARA, and threat mappings              |
-| [`ghostyara`](https://github.com/sab0x1d/ghostyara)             | Clean YARA repo with reverse-engineered rules                           |
-| [`infra-burner`](https://github.com/sab0x1d/infra-burner)       | Infra discovery & takedown tooling (DNS, C2, SSL fingerprints)          |
-| [`notes-from-0x1D`](https://github.com/sab0x1d/notes-from-0x1D) | Reverse engineering logs, deobfuscation tactics, and cold case writeups |
+| Project                                                         | Description                                                                      |
+|-----------------------------------------------------------------|----------------------------------------------------------------------------------|
+| [`sigtrack`](https://github.com/sab0x1d/sigtrack)               | IOC & signature tracker — Sigma, YARA, and threat mappings                       |
+| [`ghostyara`](https://github.com/sab0x1d/ghostyara)             | Clean YARA repo with reverse-engineered rules                                    |
+| [`infra-burner`](https://github.com/sab0x1d/infra-burner)       | Infra discovery & takedown tooling (DNS, C2, SSL fingerprints)                   |
+| [`notes-from-0x1D`](https://github.com/sab0x1d/notes-from-0x1D) | Reverse engineering logs, deobfuscation tactics, and cold case writeups          |
+| [`mal_cheat`](https://github.com/Sab0x1D/mal_cheat)             | Malware family identification cheatsheet, triage strategy, regex pattern library |
 
 ---
 
