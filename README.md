@@ -63,10 +63,10 @@ _You don't need to see the ghost to know it's there._
 
 ---
 
-## 📂 Licensing & Ethics
+## Licensing & Ethics
 
 I support responsible disclosure, ethical red/blue/purple team research, and data use within legal bounds.  
-If you use my work — credit it. If you weaponize it — don’t.
+If you use my work — CREDIT IT. If you weaponize it — DON’T.
 
 ---
 
