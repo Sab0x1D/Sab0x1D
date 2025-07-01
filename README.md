@@ -29,15 +29,15 @@ Certified Malware Researcher, building out tools to support open CTI efforts.
 
 ## Current Focus
 
-- ☠️ Payload analysis & memory inspection  
-- 🕵️ Threat actor TTP mapping (MITRE ATT&CK driven)  
-- 🧬 YARA rule development  
-- 📡 IOC curation and automation  
-- 🔐 OPSEC-conscious tooling for CTI analysts
+- Payload analysis & memory inspection  
+- Threat actor TTP mapping (MITRE ATT&CK driven)  
+- YARA rule development  
+- IOC curation and automation  
+- OPSEC-conscious tooling for CTI analysts
 
 ---
 
-## 🔧 Featured Repos
+## Featured Repos
 
 | Project                                                         | Description                                                                      |
 |-----------------------------------------------------------------|----------------------------------------------------------------------------------|
