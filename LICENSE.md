@@ -1,4 +1,4 @@
-# 📄 License & Usage — Sab0x1D
+# License & Usage — Sab0x1D
 
 All repositories and their contents are provided for **educational**, **defensive**, and **research** purposes only.
 
