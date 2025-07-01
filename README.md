@@ -49,13 +49,15 @@ Certified Malware Researcher, building out tools to support open CTI efforts.
 
 ---
 
-## 🔐 PGP
+## 🔐 GPG Public Key
 
-[Download Public Key via Keyserver](https://keys.openpgp.org/search?q=sab0x1d@disroot.org)
+**Sab0x1D** (Threat Analyst · Ghost-backed)  
+Email: `sab0x1d@disroot.org`  
+🔑 Fingerprint: `3D9F B4C2 9D87 4E24 57FF  EFD1 CDEE DEE3 67F7 DFCE`  
 
-🔑 Fingerprint:`3D9F B4C2 9DB7 4E24 5F7F FED1 CDEE DE36 7F7D FCE`
+[📎 sab0x1d.asc] 
 
-📧 UID: `Sab0x1D (Threat Analyst | Ghost-backed) <sab0x1d@disroot.org>`
+[![GPG Verified](https://img.shields.io/badge/GPG-Verified-00b050?logo=gnuprivacyguard&logoColor=white)](https://github.com/Sab0x1D/00.Sab0x1d/blob/main/sab0x1d.asc)
 
 _You don't need to see the ghost to know it's there._
 
