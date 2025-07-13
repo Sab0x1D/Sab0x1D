@@ -13,20 +13,6 @@ Track • Profile • Burn:
 
 ---
 
-## Whoami
-
-I'm a cyber threat analyst by day, malware researcher by design.  
-I study adversary behavior, decommission malicious infrastructure, and document the tools uncovered during investigations.  
-Operating under `Sab0x1D`, I focus on:
-
-- **Silent ops** – staying signal-focused and footprint-free  
-- **Malware trace** – reverse engineering and behavioral deconstruction  
-- **Infra teardown** – mapping and burning malicious infrastructure  
-
-Certified Malware Researcher, building out tools to support open CTI efforts.
-
----
-
 ## Current Focus
 
 - Payload analysis & memory inspection  
