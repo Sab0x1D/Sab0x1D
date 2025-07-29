@@ -35,6 +35,8 @@ Track • Profile • Burn:
 | [`mal_lab_setup`](https://github.com/Sab0x1D/mal_lab_setup)     | Malware Lab Setup Guide — Ubuntu Gateway & Windows 11 :: with failsafe           |
 | [`cyber_aware`](https://github.com/Sab0x1D/cyber_aware)         | A personal initiative to raise cyber threat awareness — Blogs                    |
 | [`tools/scripts`](https://github.com/Sab0x1D/notes-from-0x1D/tree/main/tools)| One-off scripts and analyst-focused tools                           |
+| [`howtos`](https://github.com/Sab0x1D/howtos)                   | General :: how-tos > cheatsheets > tutorials                                     |
+
 
 ---
 
