@@ -27,16 +27,16 @@ Track • Profile • Burn:
 
 | Project                                                         | Description                                                                      |
 |-----------------------------------------------------------------|----------------------------------------------------------------------------------|
-| [`sigtrack`](https://github.com/sab0x1d/sigtrack)               | IOC & signature tracker — Sigma, YARA, and threat mappings                       |
+| [`blogs`](https://github.com/Sab0x1D/blogs)                     | Personal Blogs                                                                   |
+| [`cyber_aware`](https://github.com/Sab0x1D/cyber_aware)         | A personal initiative to raise cyber threat awareness — Blogs                    |
 | [`ghostyara`](https://github.com/sab0x1d/ghostyara)             | Clean YARA repo with reverse-engineered rules                                    |
+| [`howtos`](https://github.com/Sab0x1D/howtos)                   | General :: how-tos > cheatsheets > tutorials                                     |
 | [`infra-burner`](https://github.com/sab0x1d/infra-burner)       | Infra discovery & takedown tooling (DNS, C2, SSL fingerprints)                   |
-| [`notes-from-0x1D`](https://github.com/sab0x1d/notes-from-0x1D) | Reverse engineering logs, deobfuscation tactics, and cold case writeups          |
 | [`mal_cheat`](https://github.com/Sab0x1D/mal_cheat)             | Malware family identification cheatsheet, triage strategy, regex pattern library |
 | [`mal_lab_setup`](https://github.com/Sab0x1D/mal_lab_setup)     | Malware Lab Setup Guide — Ubuntu Gateway & Windows 11 :: with failsafe           |
-| [`cyber_aware`](https://github.com/Sab0x1D/cyber_aware)         | A personal initiative to raise cyber threat awareness — Blogs                    |
+| [`notes-from-0x1D`](https://github.com/sab0x1d/notes-from-0x1D) | Reverse engineering logs, deobfuscation tactics, and cold case writeups          |
+| [`sigtrack`](https://github.com/sab0x1d/sigtrack)               | IOC & signature tracker — Sigma, YARA, and threat mappings                       |
 | [`tools/scripts`](https://github.com/Sab0x1D/notes-from-0x1D/tree/main/tools)| One-off scripts and analyst-focused tools                           |
-| [`howtos`](https://github.com/Sab0x1D/howtos)                   | General :: how-tos > cheatsheets > tutorials                                     |
-
 
 ---
 
