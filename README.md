@@ -28,7 +28,7 @@ Track • Profile • Burn:
 | Project                                                         | Description                                                                      |
 |-----------------------------------------------------------------|----------------------------------------------------------------------------------|
 | [`blogs`](https://github.com/Sab0x1D/blogs)                     | Personal Blogs                                                                   |
-| [`cyber_aware`](https://github.com/Sab0x1D/cyber_aware)         | A personal initiative to raise cyber threat awareness — Blogs                    |
+| [`cyber_aware`](https://github.com/Sab0x1D/cyber_aware)         | A personal initiative to raise cyber threat awareness                            |
 | [`ghostyara`](https://github.com/sab0x1d/ghostyara)             | Clean YARA repo with reverse-engineered rules                                    |
 | [`howtos`](https://github.com/Sab0x1D/howtos)                   | General :: how-tos > cheatsheets > tutorials                                     |
 | [`infra-burner`](https://github.com/sab0x1d/infra-burner)       | Infra discovery & takedown tooling (DNS, C2, SSL fingerprints)                   |
